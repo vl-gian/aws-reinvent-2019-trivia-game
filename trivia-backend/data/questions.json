@@ -6,7 +6,7 @@
         "id": 1,
         "points": 100,
         "question": "What year was the first AWS re:Invent held?",
-        "answer": 2012,
+        "answer": 2013,
         "answerType": "NUMBER"
       },
       {
